@@ -28,7 +28,13 @@ def hello():
     print("Hello", name)
     print("your are", todays_date.year -result,"years old" )
 
-
+def countSubstrings():
+    # string in which occurrence will be checked
+    string = "geeks for geeks" 
+    
+    # counts the number of times substring occurs in 
+    # the given string and returns an integer
+    print(string.count("geeks"))
 
 def Main():
     hello()
