@@ -12,8 +12,8 @@ def Check_Vow(string, vowels):
 
 def Main():
    # Driver Code
-    string = "Geeks for Geeks"
     vowels = "AaEeIiOoUu"
+    string = input("Enter a string: ")
     Check_Vow(string, vowels)
     
 
