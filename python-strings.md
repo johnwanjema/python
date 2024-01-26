@@ -128,3 +128,8 @@ To insert characters that are illegal in a string, use an escape character.
 \xhh	Hex value
 
 ```
+
+## String Methods
+
+Python has a set of built-in methods that you can use on strings.
+[Link to W3 Schools website with string methods](https://www.w3schools.com/python/python_strings_methods.asp)
