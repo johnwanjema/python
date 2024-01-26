@@ -92,3 +92,23 @@ print(b)
 
 prints orl
 ```
+
+## using format option in a simple string
+
+
+```bash
+print("{}, wanjema."
+      .format("John"))
+```
+
+ 
+### using format option for a value stored in a variable
+```bash
+str = "This article is written in {}"
+print(str.format("Python"))
+```
+
+### formatting a string using a numeric constant
+```bash
+print("Hello, I am {} years old !".format(22))
+```
