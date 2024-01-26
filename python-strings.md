@@ -112,3 +112,19 @@ print(str.format("Python"))
 ```bash
 print("Hello, I am {} years old !".format(22))
 ```
+
+## Escape Characters
+To insert characters that are illegal in a string, use an escape character.
+
+```bash
+\'	Single Quote	
+\\	Backslash	
+\n	New Line	
+\r	Carriage Return	
+\t	Tab	
+\b	Backspace	
+\f	Form Feed	
+\ooo	Octal value	
+\xhh	Hex value
+
+```
